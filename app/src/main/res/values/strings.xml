@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Doorbell</string>
+    <string name="title_activity_doorbell">DoorbellActivity</string>
+</resources>
